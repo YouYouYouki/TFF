@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e71cb221a572548598cfbad41d40291d
+timeCreated: 1463163570
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Scripts/UI/VertexColorWindow.cs
+  uploadId: 123618

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d7da05f089e104fa6b0b212b200bbb0d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Scripts/Tools/ResizeHandlePair.cs
+  uploadId: 123618

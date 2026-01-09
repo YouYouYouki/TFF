@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 17ebeff14e70d41b1ad0d1900559f96d
+timeCreated: 1464956368
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Scripts/ExpandPropertiesAttribute.cs.cs
+  uploadId: 123618

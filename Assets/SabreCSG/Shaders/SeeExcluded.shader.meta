@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ac89b683e2464d858587a764cd3261b
+timeCreated: 1466015621
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Shaders/SeeExcluded.shader
+  uploadId: 123618

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f032e6d2ebf04782b629996289e009b
+timeCreated: 1442059783
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Example Materials/Brick.mat
+  uploadId: 123618

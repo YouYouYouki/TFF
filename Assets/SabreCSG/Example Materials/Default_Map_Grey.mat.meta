@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40cbf130f99dd4d0d83d67dc6e383d19
+timeCreated: 1451243282
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Example Materials/Default_Map_Grey.mat
+  uploadId: 123618

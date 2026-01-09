@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7e65e1d8df0954d8da2a84c8ecebe32a
+timeCreated: 1449429910
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Shaders/LineDashed.shader
+  uploadId: 123618

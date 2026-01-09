@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a72c410acd75c47a5b984cbba98a8345
+timeCreated: 1442060190
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Example Materials/lambert1.mat
+  uploadId: 123618

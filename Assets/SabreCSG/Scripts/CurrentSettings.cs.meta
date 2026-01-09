@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a1a459c29fb584752aa022cf01980275
+timeCreated: 1452021118
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Scripts/CurrentSettings.cs
+  uploadId: 123618

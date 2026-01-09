@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d2352061da6b413c8d6ad273b3b31c4
+timeCreated: 1464956373
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Resources/Materials/Default_VertexColor.mat
+  uploadId: 123618

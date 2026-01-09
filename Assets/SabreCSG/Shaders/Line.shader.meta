@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 86df0202a470002428c3c61505f3a1aa
+timeCreated: 1443034028
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Shaders/Line.shader
+  uploadId: 123618

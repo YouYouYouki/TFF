@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe4033faf4cd14d048ee9576cfa1ceec
+timeCreated: 1450438832
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Shaders/Handle.shader
+  uploadId: 123618

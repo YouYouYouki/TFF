@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 198c104f6b8e44309a8bf63fbfafbacb
+timeCreated: 1463163575
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47418
+  packageName: SabreCSG Level Design Tools
+  packageVersion: 1.4.0
+  assetPath: Assets/SabreCSG/Materials/NoCSG.mat
+  uploadId: 123618
