@@ -248,7 +248,7 @@ MonoBehaviour:
           rid: 5462789755565506932
         m_EndedNodes:
           rid: 5462789755565506933
-        m_VersionTimestamp: 638962171179730359
+        m_VersionTimestamp: 638962171180130827
     - rid: 4217738984822932125
       type: {class: Start, ns: Unity.Behavior, asm: Unity.Behavior}
       data:
@@ -305,8 +305,6 @@ MonoBehaviour:
           m_Value1: 15619102134938933083
         Graph:
           rid: 4217738984822932124
-        GraphOwnerVariable:
-          rid: 4217738984822932127
         m_Parent:
           rid: 4217738984822932128
         Agent:
@@ -380,8 +378,6 @@ MonoBehaviour:
           m_Value1: 17189351699431993535
         Graph:
           rid: 4217738984822932124
-        GraphOwnerVariable:
-          rid: 4217738984822932127
         m_Parent:
           rid: 4217738984822932134
         Agent:
@@ -410,8 +406,6 @@ MonoBehaviour:
           m_Value1: 2150222357261238981
         Graph:
           rid: 4217738984822932124
-        GraphOwnerVariable:
-          rid: 4217738984822932127
         m_Parent:
           rid: 4217738984822932135
         Agent:
@@ -428,8 +422,6 @@ MonoBehaviour:
           m_Value1: 7196109661628741541
         Graph:
           rid: 4217738984822932124
-        GraphOwnerVariable:
-          rid: 4217738984822932127
         m_Parent:
           rid: 4217738984822932135
         Target:
@@ -444,8 +436,6 @@ MonoBehaviour:
           m_Value1: 1911893973529017947
         Graph:
           rid: 4217738984822932124
-        GraphOwnerVariable:
-          rid: 4217738984822932127
         m_Parent:
           rid: 4217738984822932135
         Agent:
