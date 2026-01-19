@@ -2,7 +2,7 @@
   "dependencies": {
     "com.prenominal.realtimecsg": "https://github.com/LogicalError/realtime-CSG-for-unity.git",
     "com.unity.ai.navigation": "2.0.9",
-    "com.unity.behavior": "1.0.14",
+    "com.unity.behavior": "1.0.13",
     "com.unity.burst": "1.8.25",
     "com.unity.cinemachine": "3.1.2",
     "com.unity.collab-proxy": "2.10.1",

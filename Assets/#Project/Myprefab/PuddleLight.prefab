@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 8121943065014667555}
   - component: {fileID: 4553037894726138412}
   - component: {fileID: 2837457267900707052}
+  - component: {fileID: 3050728699491718303}
   m_Layer: 0
   m_Name: PuddleLight
   m_TagString: Untagged
@@ -168,3 +169,23 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 7.93, y: 2, z: 8.8}
   m_Center: {x: 0, y: 1, z: 0}
+--- !u!114 &3050728699491718303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1412386470369513446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0038c16c34866b4f9e25c9c0dc0f7e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Behavior::Unity.Behavior.BehaviorGraphAgent
+  m_Graph: {fileID: -8754812353219064840, guid: 92279dac2bedd3a4786b818352bc94b2, type: 2}
+  m_BlackboardVariableOverridesList: []
+  m_OriginalGraph: {fileID: 0}
+  m_IsInitialised: 0
+  m_IsStarted: 0
+  references:
+    version: 2
+    RefIds: []
